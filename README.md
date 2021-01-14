@@ -1,4 +1,4 @@
-# [![Joel Martinez](https://github.com/JoelMtz/JoelMtz/blob/Ima/Banner_CV_Mesa de trabajo 1 copia 2.jpg)] 
+# [![Joel Martinez](https://github.com/JoelMtz/JoelMtz/blob/Ima/Banner_CV.jpg)] 
 ### Hi! I'm Joel 👋
 
 
