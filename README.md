@@ -1,4 +1,4 @@
-# [![Joel Martinez](https://github.com/JoelMtz/JoelMtz/blob/Ima/Banner_CV.jpg)] 
+# [![Joel Martinez](https://github.com/JoelMtz/JoelMtz/blob/Ima/joel.jpg)] 
 ### Hi! I'm Joel 👋
 
 
