@@ -6,6 +6,6 @@
 
 - 🔭 I’m currently working on on my final PhD Thesis project. I am proposing some biplots as ML techniques.
 - 🌱 I’m currently learning machine learning techniques, especially unsupervised.
-- I love Data visualization!!! 
+- I love Data visualization!!!
 
 
